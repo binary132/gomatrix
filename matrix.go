@@ -17,17 +17,17 @@ type MultDimError DimError
 
 type NoInverseError error
 
-func Mult(a, b Matrix) (Matrix, MultDimError) {
-
-}
-
-func Inverse(a Matrix) (Matrix, NoInverseError) {
-
-}
-
-func Add(a, b Matrix) (Matrix, error) {
-
-}
+// func Mult(a, b Matrix) (Matrix, MultDimError) {
+//
+// }
+//
+// func Inverse(a Matrix) (Matrix, NoInverseError) {
+//
+// }
+//
+// func Add(a, b Matrix) (Matrix, error) {
+//
+// }
 
 func Init() {
 
